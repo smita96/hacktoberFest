@@ -13,3 +13,4 @@ for i in xrange(1,n):
 	if count == 0:
 		idx = i; count = 1
 print(a[idx])
+# hacktoberfest
